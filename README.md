@@ -1,2 +1,1 @@
-# CryptorABC
-Cryptor and Decryptor Ru
+# CryptABC
