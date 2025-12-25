@@ -1,0 +1,14 @@
+C:\Games\LOngers\CryptABC\CryptABC\bin\Release\CryptABC.exe.config
+C:\Games\LOngers\CryptABC\CryptABC\bin\Release\CryptABC.exe.manifest
+C:\Games\LOngers\CryptABC\CryptABC\bin\Release\CryptABC.application
+C:\Games\LOngers\CryptABC\CryptABC\bin\Release\CryptABC.exe
+C:\Games\LOngers\CryptABC\CryptABC\bin\Release\CryptABC.pdb
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.csproj.AssemblyReference.cache
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.Form1.resources
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.Properties.Resources.resources
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.csproj.GenerateResource.cache
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.csproj.CoreCompileInputs.cache
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.exe.manifest
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.application
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.exe
+C:\Games\LOngers\CryptABC\CryptABC\obj\Release\CryptABC.pdb
