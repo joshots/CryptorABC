@@ -12,3 +12,17 @@ C:\Games\LOngers\CryptABC\CryptABC\bin\Debug\CryptABC.exe.manifest
 C:\Games\LOngers\CryptABC\CryptABC\bin\Debug\CryptABC.application
 C:\Games\LOngers\CryptABC\CryptABC\obj\Debug\CryptABC.exe.manifest
 C:\Games\LOngers\CryptABC\CryptABC\obj\Debug\CryptABC.application
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\bin\Debug\CryptABC.exe.config
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\bin\Debug\CryptABC.exe.manifest
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\bin\Debug\CryptABC.application
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\bin\Debug\CryptABC.exe
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\bin\Debug\CryptABC.pdb
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.csproj.AssemblyReference.cache
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.Form1.resources
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.Properties.Resources.resources
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.csproj.GenerateResource.cache
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.csproj.CoreCompileInputs.cache
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.exe.manifest
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.application
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.exe
+C:\Users\z_gol\source\repos\CryptorABC\CryptABC\obj\Debug\CryptABC.pdb

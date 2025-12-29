@@ -49,10 +49,9 @@
             this.label.Location = new System.Drawing.Point(429, 143);
             this.label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label.Name = "label";
-            this.label.Size = new System.Drawing.Size(90, 38);
+            this.label.Size = new System.Drawing.Size(110, 48);
             this.label.TabIndex = 2;
             this.label.Text = "Crypt";
-            
             // 
             // textBox1
             // 
@@ -62,7 +61,7 @@
             this.textBox1.Location = new System.Drawing.Point(367, 200);
             this.textBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(219, 20);
+            this.textBox1.Size = new System.Drawing.Size(219, 25);
             this.textBox1.TabIndex = 3;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox);
             // 
@@ -78,7 +77,7 @@
             this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
             this.button1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.button1.Size = new System.Drawing.Size(84, 56);
+            this.button1.Size = new System.Drawing.Size(104, 56);
             this.button1.TabIndex = 4;
             this.button1.Text = "Done";
             this.button1.UseVisualStyleBackColor = false;
@@ -96,10 +95,9 @@
             this.label1.Location = new System.Drawing.Point(430, 260);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(101, 36);
+            this.label1.Size = new System.Drawing.Size(129, 47);
             this.label1.TabIndex = 5;
             this.label1.Text = "Decrypt";
-           
             // 
             // textBox2
             // 
@@ -110,7 +108,7 @@
             this.textBox2.Location = new System.Drawing.Point(367, 310);
             this.textBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(219, 20);
+            this.textBox2.Size = new System.Drawing.Size(219, 25);
             this.textBox2.TabIndex = 6;
             this.textBox2.TextChanged += new System.EventHandler(this.textBox_2);
             // 
@@ -125,7 +123,7 @@
             this.button2.Location = new System.Drawing.Point(656, 296);
             this.button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(84, 52);
+            this.button2.Size = new System.Drawing.Size(104, 52);
             this.button2.TabIndex = 7;
             this.button2.Text = "Done";
             this.button2.UseVisualStyleBackColor = false;
@@ -133,7 +131,7 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 19F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
@@ -147,8 +145,9 @@
             this.Controls.Add(this.label);
             this.Font = new System.Drawing.Font("Segoe Script", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
